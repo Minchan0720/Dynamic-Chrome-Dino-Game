@@ -1,0 +1,17 @@
+
+
+{
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "chrome --incognito --remote-debugging-port=8080",
+    "liveServer.settings.NoBrowser" : false,
+    "liveServer.settings.ignoreFiles" : [
+            ".vscode/**",
+            "**/*.scss",
+            "**/*.sass"
+    ],
+    "liveServer.settings.CustomBrowser": "chrome",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "php.validate.executablePath": "chrome"
+
+}
